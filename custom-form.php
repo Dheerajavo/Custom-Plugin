@@ -48,14 +48,7 @@ function custom_form_menu_page()
   <h3>
     <pre>
     For Login Form    : [custom_login_form] 
-
-    <img src="<?php echo plugin_dir_url(__FILE__) . '/images/login1.jpg' ?>" alt="error">
-
-
-
-     For Register Form : [custom_register_form]
-
-    <img src="<?php echo plugin_dir_url(__FILE__) . '/images/register1.jpg' ?>" alt="error">
+    For Register Form : [custom_register_form]   
     </pre>
     <h3>
 
