@@ -1,0 +1,96 @@
+   /* register form style */
+
+   .reg_form {
+      text-align: center;
+      border: 1px solid grey;
+      height: auto;
+      width: auto;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      border-radius: 5px;
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+   }
+
+   .boxsize {
+      width: 250px;
+      height: 30px;
+      border-radius: 5px;
+      font-size: 10px;
+      text-align: center;
+      margin: 5px;
+   }
+
+   .radio {
+      margin: 5px;
+   }
+
+   .button {
+      display: flex;
+      justify-content: center;
+   }
+
+   .register {
+      width: 250px;
+      height: 30px;
+      border-radius: 20px;
+      color: antiquewhite;
+      background-color: #2e7aff;
+
+   }
+
+   .back-to {
+      text-decoration: none;
+      color: black;
+   }
+
+
+
+   /* login form style */
+
+   .login_form {
+      text-align: center;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      height: auto;
+      width: 400px;
+      margin-top: 100px;
+      margin-bottom: 100px;
+      margin-left: 350px;
+      border: 1px solid grey;
+   }
+
+   .logimg {
+      width: 100px;
+      height: 100px;
+      border-radius: 20px;
+      display: flex;
+      margin-left: 150px;
+   }
+
+   .logsize {
+      width: 250px;
+      height: 30px;
+      border-radius: 5px;
+      font-size: 10px;
+      text-align: center;
+      margin: 2px;
+      
+   }
+
+   .submit {
+      width: 250px;
+      height: 30px;
+      border-radius: 20px;
+      color: antiquewhite;
+      background-color: #2e7aff;
+      margin: 5px;
+      
+   }
+
+   /* .logforget{
+   text-decoration: none;
+   margin-left: 100px;
+   color: black;
+   font-size: small;
+  }
+  */

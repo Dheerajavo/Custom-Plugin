@@ -1,0 +1,2 @@
+[custom_login_form]
+[custom_register_form]
